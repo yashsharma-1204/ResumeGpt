@@ -39,3 +39,4 @@ It also includes a Before/After comparison view to help users clearly see improv
 ```sh
 git clone https://github.com/YOUR-USERNAME/resumegpt.git
 cd resumegpt
+<img width="1118" height="605" alt="image" src="https://github.com/user-attachments/assets/3b067d5a-559e-49e1-a599-83867840393f" />
